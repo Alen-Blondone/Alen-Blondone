@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alen-Blondone
-- 👀 I’m interested in WEB 3.0
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m learning Solidity, Phyton and AI
 - 📫 How to reach me y1055078@gmail.com
 
 <!---
